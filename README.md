@@ -1,6 +1,6 @@
 # swift-clibpng
 
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/giginet/swift-clibpng/tests.yml?style=flat-square&logo=github)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/giginet/swift-clibpng/swift.yml?style=flat-square&logo=github)
 ![Swift 5.7](https://img.shields.io/badge/Swift-5.7-FA7343?logo=swift&style=flat-square)
 [![SwiftPM](https://img.shields.io/badge/SwiftPM-compatible-green?logo=swift&style=flat-square)](https://swift.org/package-manager/) 
 ![Platforms](https://img.shields.io/badge/Platform-iOS%7CmacOS%7CwatchOS%7CtvOS%7CvisionOS-lightgray?logo=apple&style=flat-square)
